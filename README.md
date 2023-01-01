@@ -26,11 +26,11 @@ SQL, Presentation, Numpy, Pandas, Python, Data analysis, Excel, Tableau, Git, Ma
 
 ### Exploratory Data Analysis and Visualization of US Used Cars Data ([View](https://jovian.ai/aihtu-a8445/usa-used-cars-eda-project))
 
-> Analyzed data for 3 million+ used cars containing 17 columns using pandas.
+- Analyzed data for 3 million+ used cars containing 17 columns using pandas.
 
-> Created visualizations (Bar plots, Scatter plots, Histogram, Tree Map etc.) using Matplotlib, Seaborn & Plotly.
+- Created visualizations (Bar plots, Scatter plots, Histogram, Tree Map etc.) using Matplotlib, Seaborn & Plotly.
 
-> Sense the customer likelihood and market more such cars.
+- Sense the customer likelihood and market more such cars.
 
    1. Gasoline cars are most popular.
    
@@ -38,11 +38,11 @@ SQL, Presentation, Numpy, Pandas, Python, Data analysis, Excel, Tableau, Git, Ma
 
 ### Scraping Cryptocurrencies From CoinMarketCap using Beautiful Soup and Selenium ([View](https://jovian.ai/aihtu-a8445/coinmarketcap-web-scrapping-project-afe27))
 
-  > Scraped Weekly Historical Cryptocurrencies data from Coin Market Cap Website using Requests, BeautifulSoup4 and Selenium.
+  - Scraped Weekly Historical Cryptocurrencies data from Coin Market Cap Website using Requests, BeautifulSoup4 and Selenium.
 
-  > Built functions to scrape cryptocurrency name, Market Cap, Price, Circulating price etc
+  - Built functions to scrape cryptocurrency name, Market Cap, Price, Circulating price etc
 Stored data consisting of 200 rows - 9 columns and into csv file using pandas.
 
 ### Mini Project - Tableau and Excel ([view](https://public.tableau.com/app/profile/aehtajaz.ahmed/viz/Bookdatasetsalesdashboard/Dashboard1?publish=yes))
 
-  > Use Tableau’s Bookshop sample database to analyze data, create visualizations.
+  - Use Tableau’s Bookshop sample database to analyze data, create visualizations.
