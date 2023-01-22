@@ -1,4 +1,10 @@
-# Aehtajaz Ahmed
+<div align="center">
+<h1 class="center-heading">Hi :wave:, I'm Aehtajaz Ahmed </h1>
+</div>
+<p align="center">
+ A passionate data science practitioner.
+</p>
+
 New Delhi, India 
 
 https://www.linkedin.com/in/aehtajaz/
@@ -6,8 +12,8 @@ https://www.linkedin.com/in/aehtajaz/
 https://jovian.ai/aihtu-a8445
 
 ## EDUCATION
-
-Data Science Bootcamp, Jovian                                          July 2022 - Ongoing
+I have completed
+Data Science Bootcamp, Jovian                                         
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
@@ -46,3 +52,13 @@ Stored data consisting of 200 rows - 9 columns and into csv file using pandas.
 ### Mini Project - Tableau and Excel ([view](https://public.tableau.com/app/profile/aehtajaz.ahmed/viz/Bookdatasetsalesdashboard/Dashboard1?publish=yes))
 
   - Use Tableau’s Bookshop sample database to analyze data, create visualizations.
+  - Drill down functionality to provide insights on the most popular genres and sales trends.
+  - Get the popularity of books based on the number of times they were checked out, likely using   a bar chart to show the data.
+  - Get insights on the effectiveness of the marketing spend and how it impacts sales.
+
+
+## BAsic info
+- 🌱 I'm currently learning Machine Learning
+- 👨‍💻 All of my projects are available at [jovian profile](https://jovian.ai/aihtu-a8445)
+- 💬 Ask me about MySQL, Python, Statistics, Web Scrapping, EDA
+- 📲 How to reach me aehtajaz.ds@gmail.com
