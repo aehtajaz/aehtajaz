@@ -19,14 +19,10 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 Highlights: 600+ hours of coursework, 10 coding assignments, 2 projects (Web scraping, EDA)
 
-Quantum University, Roorkee, India                                                                                         2018 - 2022
+Quantum University, Roorkee, India                                           
+                     2018 - 2022                                                        
 B.Tech, Mechanical Engineering
  
-## SKILLS & CERTIFICATIONS
-
-Skills: 
-
-SQL, Presentation, Numpy, Pandas, Python, Data analysis, Excel, Tableau, Git, Machine Learning, Plotly
 
 ## PROJECTS ([View](https://jovian.ai/aihtu-a8445))
 
@@ -62,3 +58,10 @@ Stored data consisting of 200 rows - 9 columns and into csv file using pandas.
 - 👨‍💻 All of my projects are available at [jovian profile](https://jovian.ai/aihtu-a8445)
 - 💬 Ask me about MySQL, Python, Statistics, Web Scrapping, EDA
 - 📲 How to reach me aehtajaz.ds@gmail.com
+
+##Connect with me:
+
+<a href = "https://www.linkedin.com/in/aehtajaz/">
+<img align = "left" alt = "Mitul's Linkdln width ="22px"
+src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
